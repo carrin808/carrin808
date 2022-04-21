@@ -3,9 +3,9 @@ I'm Carrington, a Software Engineer/ Developer. I really enjoy learning language
 
 [![Carrington's GitHub stats](https://github-readme-stats.vercel.app/api?username=carrin808)](https://github.com/carrin808/github-readme-stats)
 
-### Hi there 👋, Carrington Hezekiel
+### Hi there 👋, Get To Know Carrington!
 #### Software Engineer/Developer
-![Software Engineer/Developer](https://www.tiktok.com/@darealdr808?is_from_webapp=1&sender_device=pc)
+
 
 
 
