@@ -9,10 +9,10 @@ I'm Carrington, a Software Engineer/ Developer. I really enjoy learning language
 
 
 
-Skills: VUE JS / REACT / PHP / JS / HTML / CSS / MySQL / FLUTTER / DART / JAVA / KOTLIN / PYTHON /
+Skills: REACT / PHP / JS / HTML / CSS / MySQL / FLUTTER / DART / JAVA / KOTLIN / PYTHON 
 
 - 🔭 I’m currently working on My own company (Multitech) 
-- 🌱 I’m currently learning Flutter 
+- 🌱 Flutter is my favorite 
 - 👯 I’m looking to collaborate on Android/IOS projects 
 - 🤔 I’m looking for help with Meeting Elon Musk 
 - 💬 Ask me about Android/IOS Development 
