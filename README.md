@@ -11,13 +11,11 @@ I'm Carrington, a Software Engineer/ Developer. I really enjoy learning language
 
 Skills: REACT / PHP / JS / HTML / CSS / MySQL / FLUTTER / DART / JAVA / KOTLIN / PYTHON 
 
-- 🔭 I’m currently working on My own company (Multitech) 
+- 🔭 I’m currently working on My own company (Vicio Code Tech Limited) 
 - 🌱 Flutter is my favorite 
-- 👯 I’m looking to collaborate on Android/IOS projects 
-- 🤔 I’m looking for help with Meeting Elon Musk 
+- 👯 I’m looking to collaborate on Android/IOS projects  
 - 💬 Ask me about Android/IOS Development 
 - 📫 How to reach me: Email ~ hezekielcarringtone@gmail.com or WhatsApp +254735533632 
-- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Do what Elon did to twitter!
 
 
