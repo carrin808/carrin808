@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Carrington, a Software Engineer/ Developer. I really enjoy learning languages and frameworks like  React and React Native. I also enjoy wireframing, UI, UX, and design in general. You can check out my Instagram at https://www.instagram.com/darealdr808/ or Tiktok https://www.tiktok.com/@darealdr808?is_from_webapp=1&sender_device=pc .
+I'm Karington, a Software Engineer/ Developer. I really enjoy learning languages and frameworks like  React and React Native. I also enjoy wireframing, UI, UX, and design in general. You can check out my Instagram at https://www.instagram.com/darealdr808/ or Tiktok https://www.tiktok.com/@darealdr808?is_from_webapp=1&sender_device=pc .
 
 
 
